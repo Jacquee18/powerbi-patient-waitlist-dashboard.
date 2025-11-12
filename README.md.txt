@@ -2,6 +2,9 @@
 
 
 This project demonstrates a Power BI dashboard built to analyze patient waitlists across **2018–2021**, covering Outpatient, Inpatient, and Day Case records.I wanted to practice dashboard development while exploring how data can uncover hidden stories in healthcare.
+
+![Dashboard Preview](./dashboard1.png)
+
 ###  Why It Matters
 Understanding patient waitlists can help hospitals plan better staffing and resource allocation.  
 Even a simple dashboard like this can reveal patterns that guide better healthcare decisions.
